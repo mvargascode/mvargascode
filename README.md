@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Milton Vargas Adonis
 
-<!--
-**mvargascode/mvargascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Systems Engineer
 
-Here are some ideas to get you started:
+Ingeniero Informático orientado a:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Sistemas
+- ⚙️ Infraestructura TI
+- 🗄️ Bases de Datos
+- ☁️ Cloud
+- 🤖 Automatización e IA Aplicada
+
+---
+
+## Tecnologías
+
+- SQL Server
+- MySQL
+- Node.js
+- Java
+- Power BI
+- Google Cloud
+- Git & GitHub
+
+---
+
+## Proyectos Destacados
+
+### 🏖️ Vacaciones Chile
+Aplicación web para planificación inteligente de vacaciones y feriados en Chile.
+
+### 🍽️ NutriOps Platform
+Plataforma de gestión alimentaria con dashboards, analítica y automatización de procesos.
+
+---
+
+## Contacto
+
+💼 LinkedIn:
+www.linkedin.com/in/miltonvargasa
+
+📍 Santiago, Chile
